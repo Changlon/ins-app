@@ -10,7 +10,7 @@
 		></u-navbar>
 		<view class="top u-flex-col u-col-center u-p-t-80">
 			<image src="../../static/logo.png"></image>
-			<view class="name u-p-t-30 u-font-18">猫优墙纸</view>
+			<view class="name u-p-t-30 u-font-18">无名墙纸</view>
 			<view class="u-tips-color u-font-14 u-p-t-15">必须要有好看的壁纸</view>
 			<view class="u-tips-color u-font-14 u-p-t-15">V1.3.0</view>
 		</view>
