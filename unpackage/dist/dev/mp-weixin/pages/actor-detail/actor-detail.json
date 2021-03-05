@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-sticky": "/uview-ui/components/u-sticky/u-sticky",
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col",
+    "u-gap": "/uview-ui/components/u-gap/u-gap",
+    "u-card": "/uview-ui/components/u-card/u-card",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore"
+  }
+}

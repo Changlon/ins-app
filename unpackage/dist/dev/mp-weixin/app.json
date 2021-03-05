@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/center/center",
+    "pages/index/index",
+    "pages/album-detail/album-detail",
+    "pages/image-detail/image-detail",
+    "components/head/head",
+    "pages/actor-detail/actor-detail",
+    "pages/category/category",
+    "pages/about/about",
+    "pages/about/agreement",
+    "pages/about/policy"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#303133",
+    "backgroundColor": "#EEEEEE",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "./static/tabbar/home.png",
+        "selectedIconPath": "./static/tabbar/home_art.png"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "text": "分类",
+        "iconPath": "./static/tabbar/center.png",
+        "selectedIconPath": "./static/tabbar/center_art.png"
+      },
+      {
+        "pagePath": "pages/center/center",
+        "text": "我的",
+        "iconPath": "./static/tabbar/user.png",
+        "selectedIconPath": "./static/tabbar/user_art.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap79.json"
+}
