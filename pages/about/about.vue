@@ -10,9 +10,9 @@
 		></u-navbar>
 		<view class="top u-flex-col u-col-center u-p-t-80">
 			<image src="../../static/logo.png"></image>
-			<view class="name u-p-t-30 u-font-18">无名墙纸</view>
+			<view class="name u-p-t-30 u-font-18">无名壁纸</view>
 			<view class="u-tips-color u-font-14 u-p-t-15">必须要有好看的壁纸</view>
-			<view class="u-tips-color u-font-14 u-p-t-15">V1.3.0</view>
+			<view class="u-tips-color u-font-14 u-p-t-15">V1.0.0</view>
 		</view>
 		<view class="menu u-m-l-40 u-m-r-40 u-m-t-40 border-box">
 			<view class="u-flex u-row-between u-p-30 border-bottom" hover-class="hover-class1" hover-stay-time="50" @click="agreementClick">

@@ -1,9 +1,9 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/home/home"],{
 
 /***/ 42:
-/*!******************************************************************************!*\
-  !*** D:/miniprogram/wallpaper-uniapp/main.js?{"page":"pages%2Fhome%2Fhome"} ***!
-  \******************************************************************************/
+/*!*********************************************************************************!*\
+  !*** D:/miniprogram/wallpaper-uniapp-wx/main.js?{"page":"pages%2Fhome%2Fhome"} ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17,9 +17,9 @@ createPage(_home.default);
 /***/ }),
 
 /***/ 43:
-/*!***********************************************************!*\
-  !*** D:/miniprogram/wallpaper-uniapp/pages/home/home.vue ***!
-  \***********************************************************/
+/*!**************************************************************!*\
+  !*** D:/miniprogram/wallpaper-uniapp-wx/pages/home/home.vue ***!
+  \**************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -58,9 +58,9 @@ component.options.__file = "pages/home/home.vue"
 /***/ }),
 
 /***/ 44:
-/*!******************************************************************************************************!*\
-  !*** D:/miniprogram/wallpaper-uniapp/pages/home/home.vue?vue&type=template&id=92bb8f34&scoped=true& ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** D:/miniprogram/wallpaper-uniapp-wx/pages/home/home.vue?vue&type=template&id=92bb8f34&scoped=true& ***!
+  \*********************************************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -80,9 +80,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 45:
-/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--16-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/miniprogram/wallpaper-uniapp/pages/home/home.vue?vue&type=template&id=92bb8f34&scoped=true& ***!
-  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--16-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/miniprogram/wallpaper-uniapp-wx/pages/home/home.vue?vue&type=template&id=92bb8f34&scoped=true& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -96,28 +96,28 @@ var components
 try {
   components = {
     uIcon: function() {
-      return __webpack_require__.e(/*! import() | uview-ui/components/u-icon/u-icon */ "uview-ui/components/u-icon/u-icon").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-icon/u-icon.vue */ 130))
+      return __webpack_require__.e(/*! import() | uview-ui/components/u-icon/u-icon */ "uview-ui/components/u-icon/u-icon").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-icon/u-icon.vue */ 122))
     },
     uSwiper: function() {
-      return __webpack_require__.e(/*! import() | uview-ui/components/u-swiper/u-swiper */ "uview-ui/components/u-swiper/u-swiper").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-swiper/u-swiper.vue */ 137))
+      return __webpack_require__.e(/*! import() | uview-ui/components/u-swiper/u-swiper */ "uview-ui/components/u-swiper/u-swiper").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-swiper/u-swiper.vue */ 129))
     },
     uSticky: function() {
-      return __webpack_require__.e(/*! import() | uview-ui/components/u-sticky/u-sticky */ "uview-ui/components/u-sticky/u-sticky").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-sticky/u-sticky.vue */ 144))
+      return __webpack_require__.e(/*! import() | uview-ui/components/u-sticky/u-sticky */ "uview-ui/components/u-sticky/u-sticky").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-sticky/u-sticky.vue */ 136))
     },
     uTabsSwiper: function() {
-      return Promise.all(/*! import() | uview-ui/components/u-tabs-swiper/u-tabs-swiper */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uview-ui/components/u-tabs-swiper/u-tabs-swiper")]).then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-tabs-swiper/u-tabs-swiper.vue */ 151))
+      return Promise.all(/*! import() | uview-ui/components/u-tabs-swiper/u-tabs-swiper */[__webpack_require__.e("common/vendor"), __webpack_require__.e("uview-ui/components/u-tabs-swiper/u-tabs-swiper")]).then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-tabs-swiper/u-tabs-swiper.vue */ 143))
     },
     uRow: function() {
-      return __webpack_require__.e(/*! import() | uview-ui/components/u-row/u-row */ "uview-ui/components/u-row/u-row").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-row/u-row.vue */ 158))
+      return __webpack_require__.e(/*! import() | uview-ui/components/u-row/u-row */ "uview-ui/components/u-row/u-row").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-row/u-row.vue */ 150))
     },
     uCol: function() {
-      return __webpack_require__.e(/*! import() | uview-ui/components/u-col/u-col */ "uview-ui/components/u-col/u-col").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-col/u-col.vue */ 165))
+      return __webpack_require__.e(/*! import() | uview-ui/components/u-col/u-col */ "uview-ui/components/u-col/u-col").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-col/u-col.vue */ 157))
     },
     uImage: function() {
-      return __webpack_require__.e(/*! import() | uview-ui/components/u-image/u-image */ "uview-ui/components/u-image/u-image").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-image/u-image.vue */ 172))
+      return __webpack_require__.e(/*! import() | uview-ui/components/u-image/u-image */ "uview-ui/components/u-image/u-image").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-image/u-image.vue */ 164))
     },
     uLoadmore: function() {
-      return __webpack_require__.e(/*! import() | uview-ui/components/u-loadmore/u-loadmore */ "uview-ui/components/u-loadmore/u-loadmore").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-loadmore/u-loadmore.vue */ 179))
+      return __webpack_require__.e(/*! import() | uview-ui/components/u-loadmore/u-loadmore */ "uview-ui/components/u-loadmore/u-loadmore").then(__webpack_require__.bind(null, /*! @/uview-ui/components/u-loadmore/u-loadmore.vue */ 171))
     }
   }
 } catch (e) {
@@ -178,9 +178,9 @@ render._withStripped = true
 /***/ }),
 
 /***/ 46:
-/*!************************************************************************************!*\
-  !*** D:/miniprogram/wallpaper-uniapp/pages/home/home.vue?vue&type=script&lang=js& ***!
-  \************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** D:/miniprogram/wallpaper-uniapp-wx/pages/home/home.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -194,9 +194,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 47:
-/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/miniprogram/wallpaper-uniapp/pages/home/home.vue?vue&type=script&lang=js& ***!
-  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/miniprogram/wallpaper-uniapp-wx/pages/home/home.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -333,9 +333,9 @@ menuButtonInfo = uni.getMenuButtonBoundingClientRect();var _default =
 /***/ }),
 
 /***/ 48:
-/*!*********************************************************************************************************************!*\
-  !*** D:/miniprogram/wallpaper-uniapp/pages/home/home.vue?vue&type=style&index=0&id=92bb8f34&lang=scss&scoped=true& ***!
-  \*********************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** D:/miniprogram/wallpaper-uniapp-wx/pages/home/home.vue?vue&type=style&index=0&id=92bb8f34&lang=scss&scoped=true& ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -349,9 +349,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 49:
-/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--8-oneOf-1-0!./node_modules/css-loader/dist/cjs.js??ref--8-oneOf-1-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-1-2!./node_modules/postcss-loader/src??ref--8-oneOf-1-3!./node_modules/sass-loader/dist/cjs.js??ref--8-oneOf-1-4!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-1-5!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/miniprogram/wallpaper-uniapp/pages/home/home.vue?vue&type=style&index=0&id=92bb8f34&lang=scss&scoped=true& ***!
-  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--8-oneOf-1-0!./node_modules/css-loader/dist/cjs.js??ref--8-oneOf-1-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-1-2!./node_modules/postcss-loader/src??ref--8-oneOf-1-3!./node_modules/sass-loader/dist/cjs.js??ref--8-oneOf-1-4!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-1-5!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!D:/miniprogram/wallpaper-uniapp-wx/pages/home/home.vue?vue&type=style&index=0&id=92bb8f34&lang=scss&scoped=true& ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

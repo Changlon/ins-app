@@ -21,13 +21,7 @@
 			}
 
 		},
-
 		{
-			"path": "pages/index/index",
-			"style": {
-				"navigationBarTitleText": "uni-app"
-			}
-		}, {
 			"path": "pages/album-detail/album-detail",
 			"style": {
 				"navigationBarTitleText": "",
@@ -73,23 +67,20 @@
 
 		},
 		{
-		    "path" : "pages/about/agreement",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "用户协议",
-		        "enablePullDownRefresh": false,
+			"path": "pages/about/agreement",
+			"style": {
+				"navigationBarTitleText": "用户协议",
+				"enablePullDownRefresh": false,
 				"navigationBarTextStyle": "black"
-		    }
-		    
-		}
-		,{
-		    "path" : "pages/about/policy",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "隐私政策",
-		        "enablePullDownRefresh": false,
+			}
+
+		}, {
+			"path": "pages/about/policy",
+			"style": {
+				"navigationBarTitleText": "隐私政策",
+				"enablePullDownRefresh": false,
 				"navigationBarTextStyle": "black"
-		    }
+			}
 		}
 	],
 	"globalStyle": {

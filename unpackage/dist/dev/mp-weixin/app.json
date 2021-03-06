@@ -2,7 +2,6 @@
   "pages": [
     "pages/home/home",
     "pages/center/center",
-    "pages/index/index",
     "pages/album-detail/album-detail",
     "pages/image-detail/image-detail",
     "components/head/head",
@@ -46,6 +45,5 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap79.json"
+  "usingComponents": {}
 }
