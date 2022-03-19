@@ -26,13 +26,8 @@
 /* 文章场景相关 */
 .wrap.data-v-92bb8f34 {
   padding: 40rpx;
-  display: -webkit-box;
-  display: -webkit-flex;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-          flex-direction: column;
+  flex-direction: column;
   height: calc(100vh - 0px);
   width: 100%;
 }
@@ -65,9 +60,7 @@
   margin: 40rpx;
 }
 .swiper-box.data-v-92bb8f34 {
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-          flex: 1;
+  flex: 1;
 }
 .swiper-item.data-v-92bb8f34 {
   height: 100%;
@@ -89,7 +82,6 @@
   margin-right: 20rpx;
 }
 .tag-active.data-v-92bb8f34 {
-  background-image: -webkit-linear-gradient(left, #FCEF59, #F8D246);
   background-image: linear-gradient(to right, #FCEF59, #F8D246);
   color: #333333;
   box-shadow: 0px 0px 10px #fff8ab;

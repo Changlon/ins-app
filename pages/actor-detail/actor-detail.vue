@@ -196,7 +196,7 @@
 		top: 170px;
 	}
 
-	,
+	
 	.album-active {
 		position: absolute;
 		right: 10px;

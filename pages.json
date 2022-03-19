@@ -28,28 +28,35 @@
 				"enablePullDownRefresh": false
 			}
 
-		}, {
+		}, 
+		{
 			"path": "pages/image-detail/image-detail",
 			"style": {
 				"navigationBarTitleText": "",
 				"enablePullDownRefresh": false
 			}
 
-		}, {
+		},
+		
+		{
 			"path": "components/head/head",
 			"style": {
 				"navigationBarTitleText": "",
 				"enablePullDownRefresh": false
 			}
 
-		}, {
+		}, 
+		
+		{
 			"path": "pages/actor-detail/actor-detail",
 			"style": {
 				"navigationBarTitleText": "",
 				"enablePullDownRefresh": false
 			}
 
-		}, {
+		},
+		
+		{
 			"path": "pages/category/category",
 			"style": {
 				"navigationBarTitleText": "",
@@ -57,7 +64,9 @@
 				"navigationStyle": "custom"
 			}
 
-		}, {
+		},
+		
+		{
 			"path": "pages/about/about",
 			"style": {
 				"navigationBarTitleText": "关于我们",
@@ -66,6 +75,7 @@
 			}
 
 		},
+		
 		{
 			"path": "pages/about/agreement",
 			"style": {
@@ -74,7 +84,9 @@
 				"navigationBarTextStyle": "black"
 			}
 
-		}, {
+		}, 
+		
+		{
 			"path": "pages/about/policy",
 			"style": {
 				"navigationBarTitleText": "隐私政策",

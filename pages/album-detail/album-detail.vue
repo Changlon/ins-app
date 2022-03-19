@@ -1,5 +1,5 @@
 <template>
-	<view class="">
+	<view>
 		<view class="tab wrap" style="padding: 0rpx;">
 			<u-image width="100%" height="400rpx" :src="albumInfo.cover" mode="aspectFill"></u-image>
 		</view>
@@ -35,9 +35,9 @@
 			
 		</view>
 		
-		<!-- <u-gap height="20" bg-color="#ffffff"></u-gap> -->
+		<u-gap height="20" bg-color="#ffffff"></u-gap> 
 		<!-- 基本信息开始 -->
-		<u-sticky @fixed="fixed" @unfixed="unfixed">
+		<u-sticky @fixed="fixed" @unfixed="unfixed"> 
 			<view class="wrap" style="padding: 16rpx 40rpx 16rpx 40rpx;" :class="bfixed?'info-tab-fixed':'info-tab'">
 
 				<u-row gutter="16 " class="">
@@ -82,7 +82,7 @@
 					</u-col>
 				</u-row>
 				<u-loadmore :status="nomore" />
-
+			
 
 	</view>
 </template>
@@ -192,7 +192,7 @@
 				console.log('触发了clickLike',this.likeIt)
 			}
 
-		},
+		}
 
 	}
 </script>
@@ -211,7 +211,8 @@
 		position: absolute;
 		  left: 10px;
 		  top: 170px;
-	},
+	} 
+	
 	.album-active{
 		position: absolute;
 		  right: 10px;

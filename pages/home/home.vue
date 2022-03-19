@@ -76,7 +76,7 @@
 			}
 		},
 		created() {
-			this.getContent();
+			// this.getContent();
 		},
 		methods: {
 			getContent() {
